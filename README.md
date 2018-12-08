@@ -1,4 +1,6 @@
 # squadup
 Fitness linking application
-http://localhost:8080/
-http://localhost:3030/
+
+frontend: npm run serve; http://localhost:8080/
+
+backend: npm start; http://localhost:3030/
